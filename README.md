@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-Infrastructure and Cloud Engineer with over 2 years of experience in deploying, managing, and optimizing <br>Windows Server and Azure environments. Skilled in identifying and resolving complex infrastructure issues, <br>implementing robust security measures, and automating system operations using modern scripting tools. <br>Experienced in collaborating across technical teams to deliver efficient, scalable, and high-availability cloud <br>solutions. 
+Application/Cloud Support Engineer with over 2 years of experience in deploying, managing, and optimizing <br>Windows Server and Azure environments. Skilled in identifying and resolving complex infrastructure issues, <br>implementing robust security measures, and automating system operations using modern scripting tools. <br>Experienced in collaborating across technical teams to deliver efficient, scalable, and high-availability cloud <br>solutions. 
 
 
 ## 🌐 Socials:
